@@ -11,7 +11,6 @@ extern "C" { // ensures that the module naming of GPIO_DEAKIN.C is implemented i
 #include "sam.h"
 
 // Defines constant variables, that allow similar usage to Arduino API
-
 #define INPUT  0
 #define OUTPUT 1
 #define LOW    0
