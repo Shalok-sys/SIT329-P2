@@ -1,7 +1,7 @@
 #include "GPIO_DEAKIN.h"
 
 void setup() {
-    Config_GPIO(PORT_A, 17, OUTPUT); // PA17 is LED pin
+    Config_GPIO(PORT_A, 17, OUTPUT); // PA17 is LED pin 13, which is an in-built LED.
 }
 
 void loop() {
